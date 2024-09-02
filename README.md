@@ -1,16 +1,15 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Vinay, a passionate developer with a keen interest in building innovative applications. I enjoy working on projects that involve creative problem-solving and leverage modern technologies.
+I'm Vinay, Exploring the depths of Information Science and Engineering at JSS Science And Technology University.
 
-## 🔧 Skills
-- **Languages:** Java, C++, JavaScript
-- **Tools:** Git, FFmpeg, Android Studio
-- **Interests:** Video editing apps, Web development, Open source contributions
 
 ## 📫 Get in Touch
-- **Email:** [vinay2182001@gmail.com](mailto:vinay2182001@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)
+
+For any inquiries or collaborations, feel free to reach out via email or connect with me on LinkedIn.
+
+- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinay2182001@gmail.com)
+  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-k-165b5428a/)
 
 ## ⚡ Fun Fact
 I love exploring new tech trends and tools to keep my skills up to date!
