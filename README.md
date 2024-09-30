@@ -29,13 +29,13 @@ I'm always excited to discuss new projects, creative ideas, and opportunities to
 <h3 align="center">Thank you for visiting my profile! Let's connect and create something amazing together! 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinay2182001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vinayk218&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay2182001&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayk218&show_icons=true&theme=radical" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay2182001&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayk218&theme=radical" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2182001&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayk218&layout=compact&theme=radical" alt="Top languages" />
 </p>
