@@ -6,8 +6,8 @@
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me through the following channels:
 
-- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinay2182001@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-k-165b5428a/)
+- **Email:** [![vinay2182001@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinay2182001@gmail.com)
+- **LinkedIn:** [![in/vinay-k](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-k-165b5428a/)
 
 ## ⚡ Fun Fact
 
