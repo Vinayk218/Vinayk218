@@ -21,9 +21,4 @@ I'm always excited to discuss new projects, creative ideas, and opportunities to
 
 ---
 
-## ⚡ Fun Fact
-- 🤖 I'm a tech enthusiast who loves diving into the latest **tech trends** and **tools** to keep learning and growing!
-
----
-
 <h3 align="center">Thank you for visiting my profile! Let's connect and create something amazing together! 🚀</h3>
